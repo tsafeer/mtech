@@ -66,6 +66,9 @@ WLogistic Regression and SVM performed best overall, tying on accuracy (98.25%),
 - **Support Vector Machine:** Tied Logistic Regression on accuracy (98.25%), macro precision, recall, and F1 (0.9812), and MCC (0.9623). Its AUC (0.9950)  was slightly below Logistic Regression's.
 - **Overall winner and reason:** Logistic Regression was strongest on this test split: it tied SVM on the main threshold-based metrics and had the highest AUC. This comparison is based on one split; results may change with another split or different model settings.
 
+## Github link 
+[ML_Assignment_2](https://github.com/tsafeer/mtech/)
+
 ## Project files
 
 Update this list if your repository uses different file or folder names.
